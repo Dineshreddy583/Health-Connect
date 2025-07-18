@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+Telehealth Connect — Web & Mobile App Design
+Overview
+Telehealth Connect is a comprehensive web and mobile app designed to connect patients with doctors for virtual consultations, prescription management, and health tracking. The platform aims to simplify healthcare access by enabling secure, empathetic interactions from the comfort of home.
 
-## Project info
+🎯 Goal
+Create a trustworthy, accessible, and empathetic platform that makes healthcare simple and secure from home.
 
-**URL**: https://lovable.dev/projects/fb10a2d3-66ba-4fec-8c36-6ee110724ad2
+👤 Target Users
+Patients seeking quick medical advice without clinic visits
 
-## How can I edit this code?
+Doctors managing multiple patients virtually
 
-There are several ways of editing your application.
+Caregivers monitoring family members' health remotely
 
-**Use Lovable**
+🔍 Key UX Features
+User Onboarding: Collect medical history and insurance info to personalize experience
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fb10a2d3-66ba-4fec-8c36-6ee110724ad2) and start prompting.
+Doctor Search & Filter: Filter doctors by specialty, ratings, and availability
 
-Changes made via Lovable will be committed automatically to this repo.
+Appointment Booking & Reminders: Schedule video consultations with calendar sync
 
-**Use your preferred IDE**
+Video Consultation Interface: Integrated chat, file sharing, and note-taking during calls
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Prescription Management: View prescriptions, request refills, and access pharmacy info
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Health Records Dashboard: Upload and view test results, vaccination records
 
-Follow these steps:
+Post-Appointment Feedback: Rate doctors and leave comments
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Accessibility Features: Large fonts, voice commands, and color contrast options
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🎨 UI Design Goals
+Clean, calming, professional aesthetic using trust-building colors (blues, greens)
 
-# Step 3: Install the necessary dependencies.
-npm i
+Intuitive navigation with clear calls-to-action (CTAs)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Use of friendly icons and illustrations to foster empathy
 
-**Edit a file directly in GitHub**
+🧰 Tools Used (optional)
+Design & Prototyping: Figma or Sketch
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Research & User Flows: Notion or Miro
 
-**Use GitHub Codespaces**
+Usability Testing: Maze
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📦 Final Deliverables
+User personas and scenarios
 
-## What technologies are used for this project?
+Flowcharts for booking and consultation workflows
 
-This project is built with:
+Wireframes and high-fidelity prototypes
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Usability test reports (optional)
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fb10a2d3-66ba-4fec-8c36-6ee110724ad2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Case study documenting design decisions and rationale
